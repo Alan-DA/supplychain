@@ -1,4 +1,4 @@
-# supplychain  
+# Supply Chain Management  
 
 DataCo Supply Chain  
 This datasets of Supply Chains used by the company DataCo Gloal was used for the analysis.  
