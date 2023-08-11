@@ -15,12 +15,10 @@ Clothing
 Sports
 Electronic Supplies
 
-Acknowledgements & Source
-Fabian Constante,
-
+**Acknowledgements & Source
 Fabian Constante
 Instituto Politecnico de Leiria Escola Superior de Tecnologia e Gestao
 Contribution: Master interested in topics related to Big Data
-Fernando Silva, António Pereira
+Fernando Silva, António Pereira**
 
-https://data.mendeley.com/datasets/8gx2fvg2k6/5
+**https://data.mendeley.com/datasets/8gx2fvg2k6/5**
